@@ -1,0 +1,10 @@
+# exclude theme
+.obsidian/themes/*
+# exclude workspace cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/obsidian-git/data.json
+.obsidian/plugins/obsidian-citation-plugin/data.json
+# OS settings and caches
+.trash/
+.DS_Store
