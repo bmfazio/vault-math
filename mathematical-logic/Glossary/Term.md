@@ -4,7 +4,7 @@
 Defined in [[9. The Language of First Order Logic]]
 
 ---
-In the context of first order logic, terms are [[strings]] of symbols that represent elements.
+In the context of first order logic, terms are [[strings]] of symbols that represent elements. 
 
 The following are **terms**:
 - All constant symbols $c_0, c_1, \dots$
